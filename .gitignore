@@ -10,3 +10,4 @@ assets
 studio.json
 composer.lock
 .well-known/
+storage/gdpr-exports

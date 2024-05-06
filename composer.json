@@ -30,6 +30,7 @@
         "antoinefr/flarum-ext-online": "^1.0",
         "askvortsov/flarum-pwa": "dev-master",
         "blomstra/database-queue": "*",
+        "blomstra/gdpr": "@beta",
         "clarkwinkelmann/flarum-ext-anonymous-posting": "^1.1",
         "clarkwinkelmann/flarum-ext-colorful-borders": "^1.0",
         "clarkwinkelmann/flarum-ext-money-rewards": "^1.0",
