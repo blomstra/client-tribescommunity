@@ -28,7 +28,7 @@
         "afrux/online-users-widget": "*",
         "antoinefr/flarum-ext-money": "^1.3",
         "antoinefr/flarum-ext-online": "^1.0",
-        "askvortsov/flarum-pwa": "dev-fix-firebase-permission-status-check",
+        "askvortsov/flarum-pwa": "dev-master",
         "blomstra/database-queue": "*",
         "clarkwinkelmann/flarum-ext-anonymous-posting": "^1.1",
         "clarkwinkelmann/flarum-ext-colorful-borders": "^1.0",
@@ -100,9 +100,9 @@
     },
     "repositories": {
         "blomstra": {
-	    "type": "vcs",
-	    "url": "https://github.com/blomstra/flarum-pwa"
-	},
+            "type": "vcs",
+            "url": "https://github.com/blomstra/flarum-pwa"
+        },
         "extiverse": {
             "type": "composer",
             "url": "https://extiverse.com/composer/"
